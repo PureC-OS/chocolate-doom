@@ -109,8 +109,8 @@ int video_display = 0;
 
 // Screen width and height, from configuration file.
 
-int window_width = 640;
-int window_height = 480;
+int window_width = 960;
+int window_height = 720;
 
 // Fullscreen mode, 0x0 for SDL_WINDOW_FULLSCREEN_DESKTOP.
 
